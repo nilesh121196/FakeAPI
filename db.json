@@ -1,54 +1,53 @@
 {
-  'alert':{
-    'parameter':
-    [
+  "alert":{
+    "parameter": [
       {
-      'label': 'X',
-      'value' : 0
+      "label": "X",
+      "value" : 0
       },
       {
-      'label': 'Y',
-      'value' : 1
+      "label": "Y",
+      "value" : 1
       },
       {
-        'label': 'A',
-        'value' : 1
+        "label": "A",
+        "value" : 1
         },
         {
-          'label': 'Z',
-          'value' : 1
+          "label": "Z",
+          "value" : 1
           },
     ],
-    'operator':[
+    "operator":[
       {
-        'label':'>',
-        'value':0
+        "label":">",
+        "value":0
       },
       {
-        'label':'<',
-        'value':1
+        "label":"<",
+        "value":1
       },
       {
-        'label':'>=',
-        'value':2
+        "label":">=",
+        "value":2
       },
       {
-        'label':'<=',
-        'value':3
+        "label":"<=",
+        "value":3
       },
       {
-        'label':'=',
-        'value':4
+        "label":"=",
+        "value":4
       },            
     ],
-    'logical':[
+    "logical":[
       {
-        'label':'AND',
-        'value':0
+        "label":"AND",
+        "value":0
       },
       {
-        'label':'OR',
-        'value':1
+        "label":"OR",
+        "value":1
       }                  
     ]
   }
